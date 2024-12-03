@@ -1,3 +1,3 @@
-#Web Final Projesi
+# Web Final Projesi
 
 Bu repo, final projesi için yapılmıştır
